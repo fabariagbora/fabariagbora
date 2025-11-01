@@ -6,7 +6,7 @@
 
 <h1 align="center">Fabari Agbora</h1>
 <p align="center">
-  <b>Lead Data Scientist & Data Analyst</b> @ <a href="https://www.nepsix.com/">Nepsix Technologies LTD</a><br/>
+  <b>Lead Data Scientist & Growth Analyst</b> @ <a href="https://www.nepsix.com/">Nepsix Technologies LTD</a><br/>
   <i>Transforming data into actionable stories for business impact</i>
 </p>
 
